@@ -34,7 +34,7 @@ nav a {
 }
 
 main {
-    background-color: white;
+    background-color: #ffffe8;
     text-align: center;
 }
 
@@ -43,7 +43,7 @@ h2 {
 }
 
 section:nth-child(even) {
-    background-color: rgb(241, 241, 241);
+    background-color: #fff3eb;
 }
 
 section {
