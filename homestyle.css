@@ -20,6 +20,10 @@ header h1 {
 
 
 nav {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+    width: 100%;
     display: flex;
     background-color: #333;
     overflow: hidden;
